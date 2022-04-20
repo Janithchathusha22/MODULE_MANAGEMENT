@@ -1,0 +1,27 @@
+.wrapper{
+    flex: 1;
+    height: calc(200vh - 50px);
+    background-color: #040010;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    
+   
+}
+
+#btn {
+    float:right;
+    background-color:  rgb(87, 96, 6);
+    color: black;
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border:none;
+    
+  }
+#btn:hover {
+    background-color: rgb(229, 159, 30);
+    color: rgb(56, 3, 3);
+}

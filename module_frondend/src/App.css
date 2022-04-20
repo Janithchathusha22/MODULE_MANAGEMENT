@@ -1,0 +1,16 @@
+.sidebar{
+    display: flex;
+}
+
+
+.others{
+    flex: 7;
+    
+    background-size:cover;
+    background-position: center;
+    background-size: flex;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.511);
+    
+    
+}
